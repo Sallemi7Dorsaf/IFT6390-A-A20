@@ -1,5 +1,6 @@
 # IFT6390-A-A20:  Fundamentals of machine learning 
 [Class Website](https://mitliagkas.github.io/ift6390-ml-class/)
+
 Machine learning is a very exciting discipline, but requires building upon some important skills. Before we begin, you should possess good knowlegde of:
 
 Python programming is mandatory. You cannot use a different programming language in the class.
